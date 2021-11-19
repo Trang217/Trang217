@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trang Nguyen, Welcome to my favorite daily working place!!!
 - 👀 I’m interested in everything related to Information Technology, especially in Web Development 
 - 🌱 I’m currently learning Full Stack Web Development 
-- 💞️ I’m looking to collaborate on all projects using HTML, CSS, JS, React,..Cancel changes
+- 💞️ I’m looking to collaborate on all projects using HTML, CSS, JS, React,...
 
 
 <!---
